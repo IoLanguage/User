@@ -1,0 +1,14 @@
+{
+  "name": "User",
+  "version": 0.1,
+  "description": "This object provides access to the local operating system's information about the current user.",
+  "author": "Steve Dekorte",
+  "readme": "README.md",
+  "website": "http://iolanguage.com/",
+  "categories": ["utility", "system"],
+  "protos": ["User"],
+  "dependencies": {
+    "protos": [],
+    "packages": []
+  }
+}
